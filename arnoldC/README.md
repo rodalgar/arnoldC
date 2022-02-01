@@ -1,2 +1,2 @@
 # arnoldC
-Misc of programs in arnoldC language
+Misc of old programs in arnoldC language (https://github.com/lhartikk/ArnoldC)
